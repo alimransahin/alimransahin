@@ -1,3 +1,32 @@
+<p align="center">
+  <a href="https://github.com/alimransahin">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Al Imran" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/alimransahin">
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&size=30&pause=1000&color=9100FF&width=435&lines=Full-stack+web+developer;MERN-stack+web+developer;Experienced+UI%2FUX+Developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
+</a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+<br/>
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -25,6 +54,7 @@ I'm dedicated to building efficient and intuitive web solutions that meet client
 Here are some noteworthy projects I've worked on:
 
 1. **Tourist Web Site**
+
    - ✔ MongoDb CRUD operation
    - ✔ Implement json web token to secure API
    - ✔ Implement public and private routes.
@@ -35,8 +65,10 @@ Here are some noteworthy projects I've worked on:
    - ✔ Login by email, google, github using firebase
 
 ## Contact Me
-Feel free to reach out to me for collaboration opportunities or inquiries via- 
-- [Portfolio](https://alimran-portfolio.netlify.app/) 
+
+Feel free to reach out to me for collaboration opportunities or inquiries via-
+
+- [Portfolio](https://alimran-portfolio.netlify.app/)
 - [Email](mailto:mdalimransahin@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/md-al-imran-3564692a2/)
 
@@ -44,4 +76,8 @@ Thank you for visiting my profile!
 
 Keep coding! 🚀
 
-
+Full-stack web developer
+MERN-stack web developer
+Experienced UI/UX Developer
+3+ years of coding experience
+Always learning new things
