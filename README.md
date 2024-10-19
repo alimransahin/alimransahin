@@ -1,3 +1,10 @@
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alimransahin&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
 # MERN Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, and Node.js). I enjoy building clean, efficient, and user-friendly web applications.
