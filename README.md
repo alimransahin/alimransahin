@@ -37,13 +37,16 @@
 &#8287;&#8287;&#8287;
 <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="Tailwind CSS" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" />&#8287;&#8287;&#8287;
+<img align="center" alt="Bootstrap" width="26px" src="images/icon/bootstrap.png" />&#8287;&#8287;&#8287;
 <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />&#8287;&#8287;&#8287;
+<img align="center" alt="Redux" width="26px" src="images/icon/redux.png"  />&#8287;&#8287;&#8287;
 <img align="center" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="Express.js" width="26px" src="images/icon/express2.png"  />&#8287;&#8287;&#8287;
 <img align="center" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />&#8287;&#8287;&#8287;
 <img align="center" alt="NextUI" width="26px" src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"  />&#8287;&#8287;&#8287;
+<img align="center" alt="Firebase" width="26px" src="images/icon/firebase.png"  />&#8287;&#8287;&#8287;
 </p>
 <br/>
